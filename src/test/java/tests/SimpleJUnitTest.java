@@ -1,7 +1,6 @@
-import org.junit.jupiter.api.*;
+package tests;
 
-import static com.codeborne.selenide.Selenide.$;
-import static com.codeborne.selenide.Selenide.open;
+import org.junit.jupiter.api.*;
 
 public class SimpleJUnitTest {
 
